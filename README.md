@@ -1,6 +1,10 @@
 # Lab BD VI - Pratica 01
 Sistema de recomendação simples, utilizando agentes racionais reflexivos / reflexivos baseados em modelos.
 
+### Integrantes
+• Rodrigo César Reis;<br>
+• [Lucas Jose Povinske](https://github.com/Lucas-Povinske).
+
 ## Como construir e executar o projeto (Windows / prompt de comandos):
 
 1. Criar uma pasta vazia
